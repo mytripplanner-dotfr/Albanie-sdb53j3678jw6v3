@@ -1,0 +1,125 @@
+{
+  "pays": "Albanie",
+  "drapeau": "🇦🇱",
+  "symbole": "🦅",
+  "titre": "Évasion Douce au Cœur des Balkans",
+  "budget_total": "980 €",
+  "duree": "4 jours",
+  "temps_vol": "2h30 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Tirana et Premiers Pas",
+      "legende": "Après un vol direct depuis Paris, vous atterrissez à Tirana, la vibrante capitale albanaise. La première journée est dédiée à une installation en douceur et à une première immersion dans l'ambiance locale, avec une balade relaxante au cœur de la ville.",
+      "lieu": "Tirana",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international de Tirana (TIA) et transfert vers le centre-ville. Le trajet dure environ 30 minutes en taxi ou bus.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3 étoiles. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♂️</strong>: Balade relaxante sur la Place Skanderbeg et découverte de la Mosquée Et'hem Bey. Admirez l'architecture et l'effervescence du centre."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Des bus \"Rinas Express\" relient l'aéroport au centre-ville toutes les heures pour environ 300 ALL (environ 2,5 €)."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion Culturelle et Détente Urbaine",
+      "legende": "Cette journée vous plonge dans l'histoire fascinante de l'Albanie, de son passé communiste à sa renaissance moderne. Vous explorerez des sites emblématiques avant de vous offrir un moment de quiétude dans les espaces verts de la capitale.",
+      "lieu": "Tirana",
+      "activites": [
+        "<strong>🖼️</strong>: Visite du Bunk'Art 2. Explorez ce musée fascinant aménagé dans un ancien bunker antiatomique, retraçant l'histoire du communisme albanais.",
+        "<strong>☕</strong>: Flânerie dans le quartier de Blloku. Autrefois réservé à l'élite communiste, ce quartier est aujourd'hui le cœur branché de Tirana avec ses cafés et boutiques.",
+        "<strong>🌳</strong>: Promenade apaisante au Grand Parc de Tirana. Profitez de la verdure, du lac artificiel et de l'atmosphère sereine pour une pause bien méritée."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Le Bunk'Art 2 est plus central et plus facile d'accès que le Bunk'Art 1 pour une visite rapide et impactante."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez aux \"fergesë\", un plat traditionnel albanais à base de poivrons, tomates et fromage, souvent servi dans les restaurants de Blloku."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Escapade à Berat, la Ville aux Mille Fenêtres",
+      "legende": "Partez pour une excursion relaxante vers Berat, une ville classée au patrimoine mondial de l'UNESCO. Ses maisons ottomanes superposées et son château offrent un cadre idyllique pour une journée de découverte douce et de contemplation.",
+      "lieu": "Berat",
+      "activites": [
+        "<strong>🚌</strong>: Trajet en bus vers Berat. Profitez des paysages albanais lors de ce voyage d'environ 2h30 depuis la gare routière de Tirana.",
+        "<strong>🚶‍♀️</strong>: Exploration du Château de Berat. Promenez-vous dans cette forteresse habitée, admirez les églises byzantines et les mosquées ottomanes, et profitez des vues panoramiques.",
+        "<strong>🏘️</strong>: Découverte des quartiers de Mangalem et Gorica. Flânez dans les ruelles pavées, admirez les maisons traditionnelles et traversez le pont Gorica pour une vue emblématique sur la ville."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport",
+          "texte": "Les bus pour Berat partent régulièrement de la gare routière de Tirana (Terminali i Autobusave të Jugut dhe Veriut). Achetez votre billet directement sur place."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Le pont Gorica offre le meilleur point de vue pour capturer l'image iconique de Berat et ses \"mille fenêtres\"."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🚠",
+      "titre": "Vues Panoramiques et Départ",
+      "legende": "Pour votre dernière matinée, prenez de la hauteur pour admirer Tirana sous un autre angle, offrant une perspective apaisante sur la ville et ses environs. Profitez de ces derniers instants pour quelques souvenirs avant votre vol retour.",
+      "lieu": "Tirana",
+      "activites": [
+        "<strong>🚠</strong>: Montée en téléphérique Dajti Express. Profitez d'une vue imprenable sur Tirana et les montagnes environnantes lors de cette ascension relaxante.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs ou pause café. Profitez des dernières heures pour dénicher des produits locaux ou savourer un dernier café albanais.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Tirana et vol retour vers Paris. Gardez en mémoire les paysages et l'hospitalité albanaise."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⛰️",
+          "titre": "Activité douce",
+          "texte": "Au sommet du Mont Dajti, vous pouvez faire une courte balade ou simplement vous asseoir et profiter de la vue depuis l'un des restaurants."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "269 €/pers (A/R Paris-Tirana)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 70 €/pers (transferts aéroport, bus interurbain, transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 280 €/pers (3 repas/jour, restaurants 3 étoiles)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 270 €/pers (3 nuits en hôtel 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 90 €/pers (Bunk'Art 2, Dajti Express, Château de Berat)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est le Lek Albanais (ALL). Les cartes de crédit sont acceptées dans les grandes villes, mais prévoyez du liquide pour les petits commerces et les zones rurales.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite est à droite. Les routes principales sont en bon état, mais certaines routes secondaires peuvent être plus difficiles.", "symbole": "🚗" },
+    { "titre": "La langue officielle est l'albanais. L'anglais est parlé dans les zones touristiques et par les jeunes. Quelques notions d'italien peuvent aussi être utiles.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type F (comme en France). Aucun adaptateur n'est nécessaire.", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol pour Tirana", "url": "https://www.kayak.fr/flights/CDG-TIA/2025-05-15/2025-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Albania.al - Tourisme officiel", "url": "https://albania.al/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Tirana", "url": "https://www.meteoblue.com/fr/meteo/semaine/tirana_albanie_3188494", "symbole": "🌤️" },
+    { "legende": "Transports en Albanie", "titre": "Gares routières Tirana", "url": "https://www.tirana.al/en/points-of-interest/transport/bus-stations", "symbole": "🚌" }
+  ]
+}
